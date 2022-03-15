@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33891ede-d55f-40ee-83ea-0fcb5150b772" name="Changes" comment="" />
+    <list default="true" id="33891ede-d55f-40ee-83ea-0fcb5150b772" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/addTwoNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647372015366</updated>
-      <workItem from="1647372017485" duration="887000" />
+      <workItem from="1647372017485" duration="1183000" />
     </task>
     <servers />
   </component>
